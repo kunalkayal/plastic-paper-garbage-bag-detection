@@ -1,6 +1,4 @@
-# Plastic, Paper, Garbage Bag Detection
-
-![Project Banner](assets/banner.png)
+![assets/banner.png](https://github.com/kunalkayal/Bag-Recognition-/blob/master/projectbanner.jpg)
 
 ## 🌟 Overview
 This project is an advanced image classification model designed to categorize carry bag images into three distinct classes:
