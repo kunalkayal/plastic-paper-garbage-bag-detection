@@ -35,7 +35,7 @@ The model is trained using a Kaggle dataset and leverages deep learning techniqu
 
 ## 📊 Dataset
 
-The dataset, sourced from [Kaggle](https://www.kaggle.com/), includes labeled images of garbage bags, plastic bags, and paper bags. Extensive preprocessing and augmentation techniques were applied to enhance the model's performance.
+The dataset, sourced from [Kaggle](https://www.kaggle.com/code/mannarmohamedsayed/plastic-paper-garbage-bag-efficientnetb3), includes labeled images of garbage bags, plastic bags, and paper bags. Extensive preprocessing and augmentation techniques were applied to enhance the model's performance.
 
 ---
 
@@ -85,12 +85,16 @@ The dataset, sourced from [Kaggle](https://www.kaggle.com/), includes labeled im
    - Model: ResNet50 (transfer learning)
    - Optimizer: Adam (learning rate = 0.001)
    - Loss Function: Categorical Crossentropy
+---     
+![Model Summery](model_summery.png)
+
+![This is](https://drive.google.com/file/d/1R7Jk3A-qxd3-UKnz2dRsr0L9_VvVadrT/view?usp=sharing) the trained model.
 
 ---
 
 ## 📷 Example Output
 
-![Prediction Example](assets/example_output.png)
+![Prediction Example](test_result.png)
 
 ---
 
@@ -118,8 +122,6 @@ We welcome contributions to improve this project. Please:
 
 - **Kunal Kayal**  
   [GitHub](https://github.com/kunalkayal) | [Email](mailto:connect2k2@hotmail.com)
-- **Abhishek Kumar**  
-  [GitHub](https://github.com/team-member-username)
 
 ---
 
